@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K4U51
-- 👀 I’m interested in ... T00 MUCH
-- 🌱 I’m currently learning ... ML/AI, CAD/3D, PCB Construction
-- 📫 How to reach me ... Smoke-signals, for fastest response.
+- 👀 I’m interested in ... TOO MUCH
+- 🌱 I’m currently learning ... ML/AI, CAD/3D, PCB Construction, Pentesting
+- 📫 How to reach me ... Smoke Signals
 - ⚡ Fun fact: ... Unbreakable _DRIVE_
 
 <!---
