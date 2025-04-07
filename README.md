@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @K4U51
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... T00 MUCH
 - 🌱 I’m currently learning ... ML/AI, CAD/3D, PCB Construction
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Life?
 - 📫 How to reach me ... Smoke-signals, for fastest response.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Unbreakable _DRIVE_
 
 <!---
 K4U51/K4U51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
