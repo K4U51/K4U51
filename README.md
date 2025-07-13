@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... TOO MUCH
 - 🌱 I’m currently learning ... ML/AI, CAD/3D, PCB Construction, Pentesting
 - 📫 How to reach me ... Smoke Signals
-- ⚡ Fun fact: ... Unbreakable _DRIVE_
+- ⚡ Fun fact: ... APT
 
 <!---
 K4U51/K4U51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
