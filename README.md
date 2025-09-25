@@ -1,4 +1,5 @@
 Instagram: kausuno
+Medium: @kaus1
 
 👋 KTHXBYE
 <!---
